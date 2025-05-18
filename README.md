@@ -8,11 +8,8 @@
 
 ### 🛠️ Tech Stack
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![Aptos](https://img.shields.io/badge/-Aptos-000000?logo=aptos)
-![Hardhat](https://img.shields.io/badge/-Hardhat-000000?logo=hardhat)
 
 ### 🧠 Current Focus
 - 🔥 Learning deep blockchain fundamentals (44-week builder program)
