@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Jash 👋  
+🚀 Blockchain Dev | 🧠 AI Explorer | 🛠️ Building the Future of Web3
 
-<!--
-**Jash-Bohare/Jash-Bohare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧭 What I'm About
+- 🔗 Blockchain maximalist. Solidity soldier. Aptos adventurer.
+- 🤖 AI + Crypto = the future. Currently working on predictive agents & smart NFTs.
+- 🚀 Founder-in-the-making, always hacking, always shipping.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
+![Aptos](https://img.shields.io/badge/-Aptos-000000?logo=aptos)
+![Hardhat](https://img.shields.io/badge/-Hardhat-000000?logo=hardhat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Focus
+- 🔥 Learning deep blockchain fundamentals (44-week builder program)
+- 🛠️ Building [FeePilot](#) – Predictive Gas Fee Saver using Allora
+- 🎨 MoodNFT – AI-driven NFT vibes for OnChAIn Island Hackathon
+
+### 🌱 On a Mission To:
+- Win hackathons. Build real shit. Make Web3 usable.
+- Launch a project people talk about.
+- Learn *in public* and bring others along.
+
+### 🧩 Cool Projects
+- 🔮 [FeePilot](#) – Auto-executes when gas is cheap. Predict, wait, profit.
+- 🖼️ [MoodNFT](#) – AI reads your mood, mints a vibe. Literally.
+- 🧾 [On-chain Resume NFT](#) – Your CV, now immutable and flex-worthy.
+
+### 📫 Let's Connect
+[Twitter](https://twitter.com/) | [LinkedIn](https://linkedin.com/) | [Website](https://your-site.dev/) | [Blog](https://mirror.xyz/)
+
+---
+🧨 *“Don’t wait to be discovered. Build stuff that can’t be ignored.”*
