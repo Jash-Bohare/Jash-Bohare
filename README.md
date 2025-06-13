@@ -15,16 +15,16 @@ A CS undergrad exploring blockchain, web3, and AI. Building cool projects, sharp
 ---
 ## 🚀 Projects
 
-- **HelpChain**  
-  _Transparent Blockchain-Powered Donation Platform on Stellar._ 
+- **HelpChain**: [GitHub Repo](https://github.com/Jash-Bohare/HelpChain) <br>
+  _Transparent Blockchain-Powered Donation Platform on Stellar._: 
 
-- **MoodNFT**  
+- **MoodNFT**: [GitHub Repo](https://github.com/Jash-Bohare/MoodNFT) <br>
   _Dynamic AI-Influenced NFTs._  
 
-- **Voting Smart Contract**  
-  _Secure on-chain voting dApp with dynamic candidate registration, voter authentication and election management._  
+- **Voting Smart Contract**: [GitHub Repo](https://github.com/Jash-Bohare/Voting-Smart-Contract) <br>
+  _Secure on-chain voting dApp with dynamic candidate registration, voter authentication, and election management._  
 
-- **Twitter Smart Contract**  
+- **Twitter Smart Contract**: [GitHub Repo](https://github.com/Jash-Bohare/Twitter-Smart-Contract) <br>
   _A simple Solidity-based Twitter clone smart contract enabling tweeting, messaging, following, and operator-based account management._  
 
 ---
