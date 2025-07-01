@@ -1,5 +1,5 @@
 # Hey, I’m Jash Bohare 👋
-A CS undergrad exploring blockchain, web3, and AI. Building cool projects, sharpening Solidity, and aiming to launch a startup soon. <br>Let’s innovate.**
+A CS undergrad exploring blockchain, web3, and AI. Building cool projects, sharpening Solidity, and aiming to launch a startup soon. <br>Let’s innovate.
 
 ---
 ## 🌐 Socials:
