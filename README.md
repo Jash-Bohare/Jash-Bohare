@@ -29,18 +29,6 @@ A CS undergrad exploring blockchain, web3, and AI. Building cool projects, sharp
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 🚀 Projects
-
-- **CleanChain**: [GitHub Repo](https://github.com/Jash-Bohare/CleanChain) <br>
-  _A decentralized platform that lets anyone clean dirty areas, prove it with geo-tagged evidence, and earn crypto rewards._
-  
-- **HelpChain**: [GitHub Repo](https://github.com/Jash-Bohare/HelpChain) <br>
-  _Transparent Blockchain-Powered Donation Platform on Stellar._
-
-- **MoodNFT**: [GitHub Repo](https://github.com/Jash-Bohare/MoodNFT) <br>
-  _Dynamic AI-Influenced NFTs._  
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jash-Bohare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
