@@ -17,7 +17,7 @@ A CS undergrad exploring blockchain, web3, and AI. Building cool projects, sharp
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-181717?style=for-the-badge&logo=hardhat&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-4E5EE4?style=for-the-badge&logo=ethereum&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-333333?style=for-the-badge&logo=ipfs&logoColor=white)  
+![IPFS](https://img.shields.io/badge/IPFS-333333?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
