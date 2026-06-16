@@ -13,14 +13,14 @@ Long-term: building scalable systems on-chain.
 
 ## <span style="color:green">Technologies and Tools</span>
 
-- **Blockchain Platforms:** Ethereum, Polygon  
+- **Blockchain Platforms:** Ethereum, Polygon, Base 
 - **Smart Contracts:** Solidity  
 - **Web3 Libraries:** Ethers.js, Web3.js 
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL, MySQL
+- **Database:** MongoDB, PostgreSQL, MySQL, Firebase
 - **Decentralized Storage:** IPFS(Pinata)
 - **Version Control:** Git, GitHub  
-- **Testing & Dev:** Hardhat, Foundry, Jest
+- **Testing & Dev:** Hardhat, Foundry
 
 ---
 ## Projects
