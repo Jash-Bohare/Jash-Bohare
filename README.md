@@ -15,7 +15,7 @@ Long-term: building scalable systems on-chain.
 
 - **Blockchain Platforms:** Ethereum, Polygon, Base 
 - **Smart Contracts:** Solidity  
-- **Web3 Libraries:** Ethers.js, Web3.js 
+- **Web3 Libraries:** Ethers.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, PostgreSQL, MySQL, Firebase
 - **Decentralized Storage:** IPFS(Pinata)
