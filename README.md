@@ -23,11 +23,6 @@ Long-term: building scalable systems on-chain.
 - **Testing & Dev:** Hardhat, Foundry
 
 ---
-## <span style="color:green">Github Analytics</span>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Jash-Bohare&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
-
----
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jash-Bohare)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BohareJash)
