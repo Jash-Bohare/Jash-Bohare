@@ -1,28 +1,36 @@
-<img width="1774" height="738" alt="Banner" src="https://github.com/user-attachments/assets/fe25719b-60d5-43b9-bcc6-f9249d284108" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Jash Bohare, Full-Stack Blockchain Developer" src="./assets/header-light.svg" width="100%">
+</picture>
 
-# Hey, I’m Jash Bohare 👋
-Web3 builder and CS undergrad. <br>
+I design, test and ship smart contracts in Solidity, then build the indexers, APIs and interfaces around them.
 
-I build smart contracts, wallets, and blockchain-based systems focused on real-world use cases. <br>
+`Solidity` `Foundry` `TypeScript` `Next.js` `wagmi` `viem` `Node.js` `PostgreSQL` `Redis`
 
-Currently shipping MVPs and working toward turning them into a startup. <br>
+<br>
 
-Long-term: building scalable systems on-chain.
+### Selected work
 
----
+**[Memeko](https://www.memeko.fun)** &nbsp;·&nbsp; fair-launch token launchpad, live on Kinetiq Elysium mainnet<br>
+<sub>Client work &nbsp;·&nbsp; 8 verified contracts &nbsp;·&nbsp; ~170 Foundry tests &nbsp;·&nbsp; bonding curves graduate to Uniswap V2 with 0% price shock</sub>
 
-## <span style="color:green">Technologies and Tools</span>
+**[ClearSwap](https://github.com/Jash-Bohare/ClearSwap)** &nbsp;·&nbsp; MEV-resistant DEX settling 45-second batch auctions at one uniform price<br>
+<sub>1st place, Arbitrum Builder Pods 2026 &nbsp;·&nbsp; 82.5% less gas &nbsp;·&nbsp; [live demo](https://clearswap-dex.pages.dev)</sub>
 
-- **Blockchain Platforms:** Ethereum, Polygon, Base 
-- **Smart Contracts:** Solidity  
-- **Web3 Libraries:** Ethers.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, PostgreSQL, MySQL, Firebase
-- **Decentralized Storage:** IPFS(Pinata)
-- **Version Control:** Git, GitHub  
-- **Testing & Dev:** Hardhat, Foundry
+**[Zapline](https://github.com/Jash-Bohare/Zapline)** &nbsp;·&nbsp; Uniswap V2 integration suite with a DeFi exploit lab<br>
+<sub>7 verified contracts on Base Sepolia &nbsp;·&nbsp; 4 real exploits reproduced and fixed &nbsp;·&nbsp; 109 tests</sub>
 
----
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jash-Bohare)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BohareJash)
+**[AstraVault](https://github.com/Jash-Bohare/AstraVault)** &nbsp;·&nbsp; non-custodial Ethereum wallet, built from the standards up<br>
+<sub>BIP-32/44 derivation &nbsp;·&nbsp; AES-256-GCM at rest &nbsp;·&nbsp; EIP-1559 signing &nbsp;·&nbsp; [live demo](https://astravault-wallet.pages.dev)</sub>
+
+**[ChronoVest](https://github.com/Jash-Bohare/ChronoVest)** &nbsp;·&nbsp; token vesting grants as tradeable ERC-721 positions<br>
+<sub>Merkle onboarding, 256 claims per storage slot &nbsp;·&nbsp; 95%+ line coverage</sub>
+
+<sub>More at [jashbohare.dev/projects](https://jashbohare.dev/projects)</sub>
+
+<br>
+
+### Reach me
+
+[jashbohare.dev](https://jashbohare.dev) &nbsp;·&nbsp; [Email](mailto:jashbohare@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jash-bohare/) &nbsp;·&nbsp; [X](https://x.com/BohareJash) &nbsp;·&nbsp; [Telegram](https://t.me/OxJash) &nbsp;·&nbsp; [Book a call](https://calendly.com/jashbohare)
